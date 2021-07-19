@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css';
-import App from './AppClass';
+//import App from './AppClass';
 import reportWebVitals from './reportWebVitals';
 //import App from './AppFunction';
 //import * as serviceWorker from './'
-
+import App from "./Login";
 ReactDOM.render(
   <React.StrictMode>
     <App />
